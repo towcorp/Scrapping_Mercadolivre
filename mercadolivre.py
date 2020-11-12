@@ -31,8 +31,8 @@ class MercadoLibreCrawler(CrawlSpider):
     custom_settings = {
         'USER_AGENT': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/71.0.3578.80 Chrome/71.0.3578.80 Safari/537.36',    
         #'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/80.0.3987.149 Safari/537.36',
-        'CLOSESPIDER_PAGECOUNT': 3 # Numero maximo de paginas que buscara itens. Scrapy termina quando atinge esse limite
-        #'CLOSESPIDER_ITEMCOUNT': 5 # Numero maximo de itens 
+        #'CLOSESPIDER_PAGECOUNT': 3 # Numero maximo de paginas que buscara itens. Scrapy termina quando atinge esse limite
+        'CLOSESPIDER_ITEMCOUNT': 30 # Numero maximo de itens 
     }
 
     #  domínios permitidos, pois os artigos usam um domínio diferente em cada pagina

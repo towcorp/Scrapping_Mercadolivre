@@ -9,7 +9,7 @@
  
   - price
  
-  - sold amount
+  - condition / sold amount 
  
   - photo link
  
@@ -39,7 +39,7 @@
  
  - preço
  
- - quantidade vendida
+ - Condição / quantidade vendida
  
  - link de fotos
  
