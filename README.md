@@ -1,6 +1,4 @@
 # Scrapping_Mercadolivre
-
-# Scrapping_Mercadolivre
 ### Scraping data from MercadoLivre
 
   Accessing the MercadoLivre search list by product and collecting key data:
