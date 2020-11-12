@@ -23,9 +23,9 @@
  
   3. Open the terminal (CMD or PowerShell of your choice) and run the program and save the file in csv or json according to your preference
   
-          - scrapy runspider 2_mercadolibre.py -o mercado_libre.csv -t csv 
+          - scrapy runspider mercadolivre.py -o mercado_livre.csv -t csv 
         
-          - scrapy runspider 2_mercadolibre.py -o mercado_libre.json -t json
+          - scrapy runspider mercadolivre.py -o mercado_livre.json -t json
   
 
 ---
@@ -53,6 +53,6 @@
  
  3. Abra o terminal(CMD ou PowerShell a escolha) e rode o programa e salve o arquivo em csv ou json de acordo com sua preferencia
  
-        - scrapy runspider 2_mercadolibre.py -o mercado_libre.csv -t csv 
+        - scrapy runspider mercadolivre.py -o mercado_livre.csv -t csv 
         
-        - scrapy runspider 2_mercadolibre.py -o mercado_libre.json -t json
+        - scrapy runspider mercadolivre.py -o mercado_livre.json -t json
